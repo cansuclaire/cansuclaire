@@ -9,4 +9,4 @@
 - ⚡ Fun fact: The earliest case of data visualization being used to influence public policy was around getting better sanitary conditions for British soldiers.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?cansuclaire=anuraghazra&show_icons=true&theme=tokyonight)
+(https://github-readme-stats.vercel.app/api?username=cansuclaire&show_icons=true&theme=tokyonight)
