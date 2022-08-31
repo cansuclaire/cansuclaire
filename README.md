@@ -1,6 +1,7 @@
-![s-l500](https://user-images.githubusercontent.com/97338597/187667683-1e47769b-b0cb-4393-ad38-eddeb9ac73cc.jpg)
+![indir](https://user-images.githubusercontent.com/97338597/187668024-4d379a47-7083-4b97-a101-bd6e7479b9b0.jpg)
 
-            
+
+       
        
           👽 Hi there 👋
 
