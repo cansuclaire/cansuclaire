@@ -1,4 +1,5 @@
-![indir](https://user-images.githubusercontent.com/97338597/187668024-4d379a47-7083-4b97-a101-bd6e7479b9b0.jpg)
+
+![s-l400](https://user-images.githubusercontent.com/97338597/187668664-270031fa-9c3f-484d-aa54-72570720852d.jpg)
 
 
        
