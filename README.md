@@ -1,5 +1,4 @@
-
-![s-l400](https://user-images.githubusercontent.com/97338597/187668664-270031fa-9c3f-484d-aa54-72570720852d.jpg)
+![Ekran görüntüsü 2022-08-31 143508](https://user-images.githubusercontent.com/97338597/187669500-b1dfa4b3-d6be-4b42-8932-0e703e12c2c9.jpg)
 
 
        
