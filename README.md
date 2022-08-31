@@ -1,5 +1,8 @@
+![s-l500](https://user-images.githubusercontent.com/97338597/187667683-1e47769b-b0cb-4393-ad38-eddeb9ac73cc.jpg)
 
-           👽 Hi there 👋
+            
+       
+          👽 Hi there 👋
 
 - 👩‍💻 I’m currently working on Data Science & Machine Learning.
 - 🧠 I’m currently learning Pandas and Deep Learning.
