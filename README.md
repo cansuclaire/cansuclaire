@@ -8,5 +8,3 @@
 - 👾 How to reach me: cansuclairecottrell@outlook.com
 - ⚡ Fun fact: The earliest case of data visualization being used to influence public policy was around getting better sanitary conditions for British soldiers.
 
-
-(https://github-readme-stats.vercel.app/api?username=cansuclaire&show_icons=true&theme=tokyonight)
