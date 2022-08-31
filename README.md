@@ -7,3 +7,6 @@
 - 👀 Ask me challenging questions about software that I can improve myself.
 - 👾 How to reach me: cansuclairecottrell@outlook.com
 - ⚡ Fun fact: The earliest case of data visualization being used to influence public policy was around getting better sanitary conditions for British soldiers.
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?cansuclaire=anuraghazra&show_icons=true&theme=tokyonight)
