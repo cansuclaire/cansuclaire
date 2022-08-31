@@ -1,7 +1,4 @@
- [Uploading i3-gaps-next.zip…]()
- 
 
- 
            👽 Hi there 👋
 
 - 👩‍💻 I’m currently working on Data Science & Machine Learning
@@ -14,6 +11,6 @@
 
 
 
-(https://github-readme-stats.vercel.app/api?username=cansuclaire&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cansuclaire&theme=tokyonight&show_icons=true)
 
 
