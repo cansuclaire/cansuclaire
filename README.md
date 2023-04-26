@@ -1,11 +1,11 @@
-   ![s-l400](https://user-images.githubusercontent.com/97338597/187669671-59c321ef-5403-42b6-90e6-42e259bd909e.jpg)
+     👽 Hi there i’m Claire👋
+![s-l400](https://user-images.githubusercontent.com/97338597/187669671-59c321ef-5403-42b6-90e6-42e259bd909e.jpg)
 
 
 
        
        
-          👽 Hi there i’m Claire👋
-
+        
 - 👩‍💻 I’m currently working on Data Science & Machine Learning.
 - 🧠 Now i’m learning Pandas and Deep Learning.
 - 👻 I'm looking for people interested in software and I want to cooperate with them.
