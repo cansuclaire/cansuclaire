@@ -20,3 +20,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cansuclaire&theme=tokyonight&show_icons=true)
 
 
+Languages and Tools ![image](https://user-images.githubusercontent.com/97338597/234484604-ba8160b2-9fc7-4957-bb82-2c9112052165.png)
+https://img.shields.io/badge/cansuclairecottrell-linkedln-blue  https://img.shields.io/badge/cansuclaire-medium-red  https://img.shields.io/badge/cansuclaire-instagram-orange
