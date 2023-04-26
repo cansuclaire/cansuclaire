@@ -8,7 +8,6 @@
 - 👀 Ask me challenging questions about software that I can improve myself.
 - 👾 How to reach me: cansuclairecottrell@outlook.com.
 - 😎 Medium Blog : https://medium.com/@cansuclaire
-- 🤖 Fun fact: The earliest case of data visualization being used to influence public policy was around getting better sanitary conditions for British soldiers.
 
 ### ✨ Hobbies
 
