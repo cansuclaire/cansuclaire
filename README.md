@@ -4,7 +4,7 @@
 
        
        
-          👽 Hi there 👋
+          👽 Hi there i’m Claire👋
 
 - 👩‍💻 I’m currently working on Data Science & Machine Learning.
 - 🧠 Now i’m learning Pandas and Deep Learning.
