@@ -7,9 +7,9 @@
           👽 Hi there 👋
 
 - 👩‍💻 I’m currently working on Data Science & Machine Learning.
-- 🧠 I’m currently learning Pandas and Deep Learning.
+- 🧠 Now i’m learning Pandas and Deep Learning.
 - 👻 I'm looking for people interested in software and I want to cooperate with them.
-- 💩 I’m looking for help with Kattis problems.
+- 💩 I’m looking for help with Kattis and HackerRank problems.
 - 👀 Ask me challenging questions about software that I can improve myself.
 - 👾 How to reach me: cansuclairecottrell@outlook.com.
 - 😎 Medium Blog : https://medium.com/@cansuclaire
