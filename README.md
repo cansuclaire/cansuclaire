@@ -1,11 +1,7 @@
-     👽 Hi there i’m Claire👋
-![s-l400](https://user-images.githubusercontent.com/97338597/187669671-59c321ef-5403-42b6-90e6-42e259bd909e.jpg)
+# 👽 Hi There i'm Claire 👋 
 
 
 
-       
-       
-        
 - 👩‍💻 I’m currently working on Data Science & Machine Learning.
 - 🧠 Now i’m learning Pandas and Deep Learning.
 - 👻 I'm looking for people interested in software and I want to cooperate with them.
@@ -15,10 +11,23 @@
 - 😎 Medium Blog : https://medium.com/@cansuclaire
 - 🤖 Fun fact: The earliest case of data visualization being used to influence public policy was around getting better sanitary conditions for British soldiers.
 
+### ✨ Hobbies
+
+🥋Krav Maga Instructor, 🤿Diver, 📚 Reading, 🌎 Travelling, 🎥 Movies, 👩🏻‍🎓 Learning
+
+## Languages and Tools ⚡
+<img src="![image](https://user-images.githubusercontent.com/97338597/234506245-0c9e2b62-bed6-4bce-aba7-d8173926e856.png)" alt="alt text" width="600" height="162">
+
+
+
+
+
+                                
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cansuclaire&theme=tokyonight&show_icons=true)
 
-
-Languages and Tools ![image](https://user-images.githubusercontent.com/97338597/234484604-ba8160b2-9fc7-4957-bb82-2c9112052165.png)
-https://img.shields.io/badge/cansuclairecottrell-linkedln-blue  https://img.shields.io/badge/cansuclaire-medium-red  https://img.shields.io/badge/cansuclaire-instagram-orange
+![Maintainer](https://img.shields.io/badge/cansuclairecottrell-linkedln-blue)
+[![Maintenance](https://img.shields.io/badge/cansuclaire-instagram-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
+[![Generic badge](https://img.shields.io/badge/cansuclaire-medium-<COLOR>.svg)](https://shields.io/)
