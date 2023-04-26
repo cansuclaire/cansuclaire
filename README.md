@@ -3,7 +3,6 @@
 
 
 - 👩‍💻 I’m currently working on Data Science & Machine Learning.
-- 🧠 Now i’m learning Pandas and Deep Learning.
 - 👻 I'm looking for people interested in software and I want to cooperate with them.
 - 💩 I’m looking for help with Kattis and HackerRank problems.
 - 👀 Ask me challenging questions about software that I can improve myself.
