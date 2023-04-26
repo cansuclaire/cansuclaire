@@ -16,7 +16,8 @@
 🥋Krav Maga Instructor, 🤿Diver, 📚 Reading, 🌎 Travelling, 🎥 Movies, 👩🏻‍🎓 Learning
 
 ## Languages and Tools ⚡
-<img src="![image](https://user-images.githubusercontent.com/97338597/234506245-0c9e2b62-bed6-4bce-aba7-d8173926e856.png)" alt="alt text" width="600" height="162">
+<img src="![image](https://user-images.githubusercontent.com/97338597/234511318-8917662b-fa25-45d8-84fd-e278b2c8ba06.png)" alt="alt text" width="1020" height="291">
+
 
 
 
