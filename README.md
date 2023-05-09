@@ -20,7 +20,7 @@
 # 
 # 
 #
-##
+####
 [![.NET](https://img.shields.io/badge/--512BD4?logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/) [![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/) [![Vim](https://img.shields.io/badge/--019733?logo=vim)](https://www.vim.org/) [![OpenBSD](https://img.shields.io/badge/--F2CA30?logo=openbsd&logoColor=000000)](https://www.openbsd.org/) [![Suckless](https://img.shields.io/badge/--1177AA?logo=suckless)](https://suckless.org/) [![x11](https://img.shields.io/badge/--F28834?logo=x.org&logoColor=ffffff)](https://x.org/) [![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/) [![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/) [![CircleCI](https://badgen.net/badge/icon/circleci?icon=circleci&label)](https://https://circleci.com/) [![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/) [![Jira](https://badgen.net/badge/icon/jira?icon=jira&label)](https://https://jira.com/) [![Maven](https://badgen.net/badge/icon/maven?icon=maven&label)](https://https://maven.apache.org/) [![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)](https://https://npmjs.com/) [![Patreon](https://badgen.net/badge/icon/patreon?icon=patreon&label)](https://https://patron.com/) [![NuGet](https://badgen.net/badge/icon/nuget?icon=nuget&label)](https://https://nuget.org/)  [![PyPi](https://badgen.net/badge/icon/pypi?icon=pypi&label)](https://https://pypi.org/) [![Ruby](https://badgen.net/badge/icon/ruby?icon=ruby&label)](https://https://ruby-lang.org/) [![TravisCI](https://badgen.net/badge/icon/travis?icon=travis&label)](https://travis-ci.org)
   
   
